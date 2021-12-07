@@ -1,1 +1,1 @@
-sudo apt install -y wget vim nmap zsh screen
+sudo apt install -y wget gnupg2 vim nmap zsh screen
